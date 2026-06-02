@@ -1,6 +1,6 @@
 # .github
 
-Hide-on-bash 조직 공용 설정 저장소.
+Hide-on-bash 협업 가이드
 
 | 경로 | 설명 |
 |------|------|
